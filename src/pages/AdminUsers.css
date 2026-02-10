@@ -1,0 +1,37 @@
+.users-table {
+  margin-top: 30px;
+}
+
+.users-table h2 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.role-badge {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.role-user {
+  background-color: #e3f2fd;
+  color: #1976d2;
+}
+
+.role-admin {
+  background-color: #fff3e0;
+  color: #f57c00;
+}
+
+.role-main_admin {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.text-muted {
+  color: #6c757d;
+  font-style: italic;
+}
